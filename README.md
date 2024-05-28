@@ -6,8 +6,6 @@
 <a href="https://codepen.io/tonju1124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tonju1124" height="30" width="40" /></a>
 <a href="https://twitter.com/tonju1124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonju1124" height="30" width="40" /></a>
 <a href="https://instagram.com/leejaysen_0101_tonju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leejaysen_0101_tonju" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tonju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tonju" height="30" width="40" /></a>
-<a href="https://discord.gg/tonju#7278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tonju#7278" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
