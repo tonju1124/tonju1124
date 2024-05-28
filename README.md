@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there I'm Tonju 
+Currently studying in Diploma in Information Technology
 
 <!--
 **tonju1124/tonju1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
