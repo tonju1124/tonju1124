@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tonju</h1>
 <h3 align="center">I'm studying on Diploma in information technology</h3>
-<p align="centr">![](https://github.com/tonju1124/tonju1124/blob/main/Heavy-Rain-Ushio-Noa.gif)</p>
+<p align="centr">![me](https://github.com/tonju1124/tonju1124/blob/main/Heavy-Rain-Ushio-Noa.gif)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
